@@ -11,5 +11,5 @@ mysql
 /src/storage/framework/views/*
 /src/storage/logs/
 /src/public/apiay.txt\
-/src/public/vendor
+# /src/public/vendor
 /src/public/storage
