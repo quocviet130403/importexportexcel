@@ -1,0 +1,15 @@
+mysql
+.DS_Store
+.idea
+/src/vendor
+/src/*.env
+/src/public/css/config.css
+/src/node_modules
+/src/bootstrap/cache
+/src/storage/framework/cache/*
+/src/storage/framework/sessions/*
+/src/storage/framework/views/*
+/src/storage/logs/
+/src/public/apiay.txt\
+/src/public/vendor
+/src/public/storage
